@@ -8,6 +8,8 @@ a quick save reminder tool for JSBox
 在示例中有一个提醒事项的小功能，但是因为没有时间选择，无法做到定制时间提醒，于是看了一下官方文档，加上了时间选择的功能，实现了在通知栏添加指定日期提醒事项的效果，非常方便。
 
 
+![img](https://github.com/XDislikeCode/Quick-Save-Reminder/blob/master/IMG_8443.jpg?raw=true)
+
 
 ## 使用方式
 
